@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/homeScreenFragment"
-        android:name="jp.hanahasao.secondapp.ui.home.HomeScreenFragment"
+        android:name="jp.hanahasao.secondapp.ui.screens.home.HomeScreenFragment"
         android:label="HomeScreenFragment" >
         <action
             android:id="@+id/action_homeScreenFragment_to_detailsScreenFragment"
@@ -15,7 +15,7 @@
     </fragment>
     <fragment
         android:id="@+id/detailsScreenFragment"
-        android:name="jp.hanahasao.secondapp.ui.details.DetailsScreenFragment"
+        android:name="jp.hanahasao.secondapp.ui.screens.details.DetailsScreenFragment"
         android:label="fragment_details_screen"
         tools:layout="@layout/fragment_details_screen" >
         <argument

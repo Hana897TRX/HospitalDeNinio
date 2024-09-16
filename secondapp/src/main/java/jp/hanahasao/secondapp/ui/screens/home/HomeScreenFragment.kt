@@ -1,4 +1,4 @@
-package jp.hanahasao.secondapp.ui.home
+package jp.hanahasao.secondapp.ui.screens.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -15,8 +15,8 @@ import jp.hanahasao.secondapp.data.local.user.entity.UserEntity
 import jp.hanahasao.secondapp.databinding.HomeScreenFragmentBinding
 import jp.hanahasao.secondapp.domain.states.DomainStates
 import jp.hanahasao.secondapp.ui.event.UIEvent
-import jp.hanahasao.secondapp.ui.home.adapter.UserAdapter
-import jp.hanahasao.secondapp.ui.home.adapter.UserViewHolderUIEvents
+import jp.hanahasao.secondapp.ui.screens.home.adapter.UserAdapter
+import jp.hanahasao.secondapp.ui.screens.home.adapter.UserViewHolderUIEvents
 import jp.hanahasao.secondapp.ui.utils.gone
 import jp.hanahasao.secondapp.ui.utils.show
 import kotlinx.coroutines.flow.launchIn

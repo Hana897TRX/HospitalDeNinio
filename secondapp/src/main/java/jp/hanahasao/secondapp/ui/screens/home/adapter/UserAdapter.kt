@@ -1,4 +1,4 @@
-package jp.hanahasao.secondapp.ui.home.adapter
+package jp.hanahasao.secondapp.ui.screens.home.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

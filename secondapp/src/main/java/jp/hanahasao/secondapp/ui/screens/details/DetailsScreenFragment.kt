@@ -1,4 +1,4 @@
-package jp.hanahasao.secondapp.ui.details
+package jp.hanahasao.secondapp.ui.screens.details
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

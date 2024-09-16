@@ -1,4 +1,4 @@
-package jp.hanahasao.secondapp.ui.home.adapter
+package jp.hanahasao.secondapp.ui.screens.home.adapter
 
 import androidx.recyclerview.widget.RecyclerView
 import jp.hanahasao.secondapp.data.local.user.entity.UserEntity

@@ -1,4 +1,4 @@
-package jp.hanahasao.secondapp.ui.home
+package jp.hanahasao.secondapp.ui.screens.home
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
